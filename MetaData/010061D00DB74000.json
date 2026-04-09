@@ -1,0 +1,14 @@
+{
+  "game_id": "010061D00DB74000",
+  "version": "v1.0.2",
+  "patch_hash": "e8f2405ecc679dfe1864759309a574f521956901f178713b21edd801d3372bfe",
+  "game_info": {
+    "title": "오리와 눈먼 숲"
+  },
+  "targets": [
+    {
+      "type": "file",
+      "path": "romfs/Data/data.unity3d"
+    }
+  ]
+}
