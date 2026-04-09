@@ -1,0 +1,19 @@
+{
+  "game_id": "0100D61017838000",
+  "version": "v1.1.0",
+  "patch_hash": "f7ca6be6e7e7db4be23027cd249e9a7f3bb2a95bf93bfd5d8f64829c523bcac2",
+  "game_info": {
+    "title": "환상소녀대전"
+  },
+  "targets": [
+    { "type": "file", "path": "romfs/data3/ef_text_OP01_L(1;normal;30).png" },
+    { "type": "file", "path": "romfs/data3/ef_text_OP02_L(1;normal;30).png" },
+    { "type": "file", "path": "romfs/data3/ef_text_OP03_L(1;normal;30).png" },
+    { "type": "file", "path": "romfs/data3/ef_text_OP04_L(1;normal;30).png" },
+    { "type": "file", "path": "romfs/data3/ef_text_OP05_L(1;normal;30).png" },
+    { "type": "folder", "path": "romfs/data4" },
+    { "type": "folder", "path": "romfs/data5-1" },
+    { "type": "folder", "path": "romfs/data5-4" },
+    { "type": "file", "path": "romfs/game.win" }
+  ]
+}
