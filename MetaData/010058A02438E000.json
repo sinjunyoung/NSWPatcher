@@ -1,0 +1,14 @@
+{
+  "game_id": "010058A02438E800",
+  "version": "v1.0.0",
+  "patch_hash": "7beeee25a2121b68e26aa4be398a1a0f09b4cec1ce9e57b3650a8805618a6a0c",
+  "game_info": {
+    "title": "전자상가의 메이드 카페"
+  },
+  "targets": [
+    { "type": "file", "path": "romfs/Data/data.unity3d" },
+    { "type": "file", "path": "romfs/Data/Managed/Metadata/global-metadata.dat" },
+    { "type": "file", "path": "romfs/Data/StreamingAssets/aa/Switch/jsondata_assets_all_0ee3f12355f7ba9fb796ee36c67c7fee.bundle" },
+    { "type": "file", "path": "romfs/Data/StreamingAssets/aa/Switch/localizationjosndata_assets_all_ca147198ba7acb1c0b47073b3c5b2bf7.bundle" }
+  ]
+}
