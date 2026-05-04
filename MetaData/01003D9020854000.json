@@ -1,0 +1,19 @@
+{
+  "game_id": "01003D9020854000",
+  "version": "v1.0.2",
+  "patch_hash": "c3d28bece604df161a31ad712f7ce1e260f5e3ac7c343c5b2ad553cf5c671879",
+  "game_info": {
+    "title": "투하트"
+  },
+  "targets": [
+    { "type": "file", "path": "romfs\Binary\Text\text.ttb" },
+    { "type": "file", "path": "romfs\System\Font\ja\binary_00.bin" },
+    { "type": "file", "path": "romfs\System\Font\ja\binary_01.bin" },
+    { "type": "file", "path": "romfs\System\Font\ja\binary_02.bin" },
+    { "type": "file", "path": "romfs\System\Font\ja\binary_03.bin" },
+    { "type": "file", "path": "romfs\System\Font\ja\fontImage_00.bntx" },
+    { "type": "file", "path": "romfs\System\Font\ja\fontImage_01.bntx" },
+    { "type": "file", "path": "romfs\System\Font\ja\fontImage_02.bntx" },
+    { "type": "file", "path": "romfs\System\Font\ja\fontImage_03.bntx" }
+  ]
+}
