@@ -6,14 +6,14 @@
     "title": "투하트"
   },
   "targets": [
-    { "type": "file", "path": "romfs\Binary\Text\text.ttb" },
-    { "type": "file", "path": "romfs\System\Font\ja\binary_00.bin" },
-    { "type": "file", "path": "romfs\System\Font\ja\binary_01.bin" },
-    { "type": "file", "path": "romfs\System\Font\ja\binary_02.bin" },
-    { "type": "file", "path": "romfs\System\Font\ja\binary_03.bin" },
-    { "type": "file", "path": "romfs\System\Font\ja\fontImage_00.bntx" },
-    { "type": "file", "path": "romfs\System\Font\ja\fontImage_01.bntx" },
-    { "type": "file", "path": "romfs\System\Font\ja\fontImage_02.bntx" },
-    { "type": "file", "path": "romfs\System\Font\ja\fontImage_03.bntx" }
+    { "type": "file", "path": "romfs/Binary/Text/text.ttb" },
+    { "type": "file", "path": "romfs/System/Font/ja/binary_00.bin" },
+    { "type": "file", "path": "romfs/System/Font/ja/binary_01.bin" },
+    { "type": "file", "path": "romfs/System/Font/ja/binary_02.bin" },
+    { "type": "file", "path": "romfs/System/Font/ja/binary_03.bin" },
+    { "type": "file", "path": "romfs/System/Font/ja/fontImage_00.bntx" },
+    { "type": "file", "path": "romfs/System/Font/ja/fontImage_01.bntx" },
+    { "type": "file", "path": "romfs/System/Font/ja/fontImage_02.bntx" },
+    { "type": "file", "path": "romfs/System/Font/ja/fontImage_03.bntx" }
   ]
 }
